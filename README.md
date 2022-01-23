@@ -1,4 +1,4 @@
-# startups crawler
+# scrapper
 
 ## Using poetry:
 
