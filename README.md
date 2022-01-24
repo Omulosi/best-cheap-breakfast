@@ -14,7 +14,17 @@ Run the app
 
 `python main.py`
 
-## Or
+## Alternatively
+
+Create a virtual environment
+
+`$ python -m venv venv`
+
+Activate it
+
+`$ source venv/bin/activate`
+
+Install dependencies and run
 
 ```sh
 $ pip install -r requirements.txt
